@@ -1,0 +1,32 @@
+HOME
+validar botão Cadastre-se para fazer entregas
+-----------------------------------------------
+
+TELA DE CADASTRO
+
+validar botão voltar para home
+validar que o campo nome completo não permita números
+validar que o campo nome completo seja obrigatório o preenchimento
+validar que o campo CPF seja um CPF válido
+validar que o campo CPF aceite somente números
+validar que o campo CPF seja obrigatório o preenchimento
+validar que o campo CPF aceite apenas 11 números
+validar que o campo e-mail seja um formato válido
+validar que o campo E-mail seja obrigatório o preenchimento
+validar que o campo whatsapp aceite somente números
+validar que o campo whatsapp aceite somente 12 números
+validar que o campo CEP seja obrigatório o preenchimento
+validar botão BUSCAR CEP com CEP válido
+validar botão BUSCAR CEP com CEP invalido
+validar que o campo CEP permite somente 8 números
+validar que o campo número seja obrigatório o preenchimento
+validar campo complemento
+validar que o Método de entrega só permite selecionar uma categoria
+validar que o upload da Foto seja obrigatório foto da CNH
+validar que o botão Cadastre-se para fazer entrega finalize o cadastro
+validar que o modal informativo após os preenchimentos dos dados será apresentado
+validar botão fechar do modal informativo Aí sim...
+validar recebimento do e-mail após finalizar o cadastro
+
+
+
